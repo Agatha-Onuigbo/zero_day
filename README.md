@@ -1,2 +1,1 @@
-# zero_day
-My first project using git bash
+Working on ubuntu directly, no ssh involved
